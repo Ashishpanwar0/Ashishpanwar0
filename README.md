@@ -1,79 +1,95 @@
-<h1 align="center">Hi 👋, I'm Ashish Panwar</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#38BDF8;">Ashish Panwar</span>
+</h1>
 
-- 🔭 I’m currently working on 
-  [NGO Education Website & Student Management System](https://www.samoonskills.org/sms/)
+<h3 align="center">
+  🚀 Frontend Developer | React Specialist | UI/UX Enthusiast 🇮🇳
+</h3>
 
-- 🌱 I’m currently learning  
-  **Advanced React.js, Backend Development (Node.js, PHP, REST APIs),  
-  Database Design (MySQL), Full-Stack Project Architecture**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishpanwar-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashupanwar5684@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ashishpanwarportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-- 👯 I’m looking to collaborate on  
-  [Frontend & React-based Web Projects](https://ashishpanwarportfolio.netlify.app/)
+---
 
-- 🤝 I’m looking for help with  
-  [Advanced React & Full-Stack Development (APIs, Backend Integration)](https://github.com/ashishpanwar2004)
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at  
-  [https://ashishpanwarportfolio.netlify.app/](https://ashishpanwarportfolio.netlify.app/)
+💡 Passionate **Frontend Developer** who loves building  
+**smooth, fast & animated user interfaces**
 
-- 📝 I regularly write articles on  
-  **Frontend & Web Development (Coming Soon)**
+- 🔭 Working on  
+  **NGO Education Website & Student Management System**  
+  👉 https://www.samoonskills.org/sms/
+
+- 🌱 Currently Learning  
+  **Advanced React.js**  
+  **Backend (Node.js, PHP, REST APIs)**  
+  **MySQL & Full-Stack Architecture**
+
+- 👯 Open to collaborate on  
+  **React & Frontend Web Projects**
+
+- 🤝 Looking for guidance in  
+  **Advanced Full-Stack Development & API Integration**
 
 - 💬 Ask me about  
-  **React.js, PHP, Tailwind CSS, Responsive UI**
+  **React.js, Tailwind CSS, PHP, Responsive UI**
 
-- 📫 How to reach me  
-  **ashupanwar5684@gmail.com | https://www.linkedin.com/in/ashishpanwar-dev/**
-
-- 📄 Know about my experiences  
-  [View Resume & Work](https://ashishpanwarportfolio.netlify.app/)
-
-- ⚡ Fun fact  
-  **😄 I enjoy building smooth UI so much that even my animations have personality.**
+- ⚡ Fun Fact  
+  😄 *I design animations so smooth they feel alive.*
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,php,nodejs,mysql,bootstrap,git,figma" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ashishpanwar-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/ashish_panwar06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpanwar2004&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpanwar2004&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpanwar2004&theme=tokyonight"/>
 </p>
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpanwar2004&show_icons=true&locale=en&layout=compact" />
+## ✨ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishpanwar2004&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishpanwar2004&show_icons=true&locale=en" />
-</p>
+---
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpanwar2004" />
-</p>
+<h3 align="center">
+  💙 “Code. Create. Improve. Repeat.”
+</h3>
