@@ -49,3 +49,65 @@ const ashish = {
   
   motto: "Code. Build. Improve. Repeat."
 };
+⚡ Quick Facts
+
+🔭 Working on Student Management System (NGO)
+
+🌱 Learning Advanced React, Node.js & Full-Stack Development
+
+👯 Open to Frontend / Junior Full-Stack roles
+
+💬 Ask me about React, Tailwind CSS, UI/UX, PHP
+
+⚡ Fun fact: I love turning ideas into clean UI
+
+🛠 Tech Stack
+🎨 Frontend
+
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+⚙️ Backend & Database
+
+Node.js (Basics) • PHP • MySQL • REST APIs
+
+🧰 Tools
+
+Git • GitHub • VS Code • Figma • Postman • Netlify • WordPress
+
+🚀 Featured Projects
+📘 Student Management System (NGO)
+
+🔗 https://www.samoonskills.org/sms/
+
+Tech: PHP, MySQL, Tailwind CSS
+
+Student data, attendance & fee management
+
+Admin dashboard for daily operations
+
+🎓 Education Website
+
+🔗 https://samoonsav.netlify.app/
+
+Tech: React, Tailwind CSS
+
+🏫 Computer Guru Training Institute
+
+🔗 https://demo.computerguru.co.in/
+
+Tech: React, PHP, MySQL
+
+🌐 Responsive Websites
+
+Hotel Website
+
+Yoga Website
+Tech: React, Tailwind CSS
+
+📊 GitHub Stats
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashishpanwar2004&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=38BDF8&icon_color=818CF8"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpanwar2004&theme=react&hide_border=true&background=0D1117"/> </div>
+🤝 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/ashishpanwar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a> <a href="mailto:ashupanwar5684@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/></a> <a href="https://ashishpanwarportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/></a> <a href="https://www.instagram.com/ashish_panwar06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/></a> <a href="https://github.com/ashishpanwar2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/></a> </div>
+<div align="center">
+💬 “First, solve the problem. Then, write the code.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/> </div> ```
