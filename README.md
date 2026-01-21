@@ -264,12 +264,20 @@ Current Roles:
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." - John Johnson
+### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
 
-### ⭐️ From [Ashish Panwar](https://github.com/Ashishpanwar0) with 💙
+<br>
+
+### ⭐ If you like my work, consider giving a star!
+
+### Made with 💙 by [Ashish Panwar](https://github.com/Ashishpanwar0)
 
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
