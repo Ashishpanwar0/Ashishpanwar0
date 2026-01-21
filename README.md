@@ -108,34 +108,6 @@ const ashishPanwar = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ashishpanwar0&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=818CF8&text_color=c9d1d9&bg_color=0d1117" alt="Ashish Panwar github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishpanwar0&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishpanwar0&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishpanwar0&bg_color=0d1117&color=38BDF8&line=818CF8&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishpanwar0&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishpanwar0&theme=radical" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
