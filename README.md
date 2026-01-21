@@ -197,15 +197,36 @@ Full-stack training institute website with frontend UI and integrated backend AP
 <div align="center">
 
 ```yaml
-Current Roles:
-  - Frontend Developer Intern @ Nimokey (2024 - Present)
-    Focus: React.js, JavaScript, Component Development, API Integration
-  
-  - Office Assistant & Web Support @ Samoon Foundation (2024 - Present)
-    Focus: Website Management, Student Management System, Digital Initiatives
-  
-  - Full-Stack Developer Intern @ Nova Nectar Services (Apr - Jun 2025)
-    Focus: Full-Stack Applications, Agile Development, API Integration
+💼 Professional Experience
+Frontend Developer Intern
+
+Nimokey | 2024 – Present
+
+Working with React.js and JavaScript to build reusable UI components
+
+Integrating REST APIs and handling dynamic data
+
+Improving performance and responsiveness of frontend applications
+
+Office Assistant & Web Support
+
+Samoon Foundation | 2024 – Present
+
+Managing and updating the organization’s website content
+
+Working on a Student Management System (records, data handling, reports)
+
+Supporting digital initiatives and daily administrative operations
+
+Full-Stack Developer Intern
+
+Nova Nectar Services | Apr 2025 – Jun 2025
+
+Developed full-stack web applications using modern technologies
+
+Worked in an Agile development environment
+
+Built and integrated APIs for frontend–backend communication
 ```
 
 </div>
