@@ -268,8 +268,6 @@ Current Roles:
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-
 <br>
 
 ### ⭐ If you like my work, consider giving a star!
