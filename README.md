@@ -199,7 +199,7 @@ Full-stack training institute website with frontend UI and integrated backend AP
 ```yaml
 🚀 Frontend Developer Intern
 
-Nimokey | 2024 – Present
+Nimokey  |  2024 – Present
 
 Developing reusable and scalable UI components using React.js & JavaScript
 
@@ -209,7 +209,7 @@ Enhancing application performance, responsiveness, and user experience
 
 🏢 Office Assistant & Web Support
 
-Samoon Foundation | 2024 – Present
+Samoon Foundation  |  2024 – Present
 
 Managing and updating the organization’s official website
 
@@ -219,7 +219,7 @@ Supporting digital initiatives and daily administrative operations
 
 🔧 Full-Stack Developer Intern
 
-Nova Nectar Services | Apr 2025 – Jun 2025
+Nova Nectar Services  |  Apr 2025 – Jun 2025
 
 Developed full-stack web applications using modern technologies
 
