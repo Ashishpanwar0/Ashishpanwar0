@@ -212,11 +212,5 @@ Modern portfolio showcasing projects with smooth animations and responsive desig
 ---
 
 <div align="center">
-
-### 💻 "The only way to do great work is to love what you do." - Steve Jobs
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> 
+💻 "The only way to do great work is to love what you do." - Steve Jobs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> </div> `
