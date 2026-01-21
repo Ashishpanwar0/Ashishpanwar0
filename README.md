@@ -27,7 +27,7 @@
 ```javascript
 const ashish = {
   name: "Ashish Panwar",
-  location: "Agra, Uttar Pradesh, India 🇮🇳",
+  location: "Rishikesh, Uttarakhand, India 🇮🇳",
   role: "Frontend Developer",
   company: "Freelance",
   
